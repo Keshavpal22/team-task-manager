@@ -1,0 +1,23 @@
+# Laravel
+team-task-manager-backend/.env
+team-task-manager-backend/.env.*
+!team-task-manager-backend/.env.example
+team-task-manager-backend/vendor/
+team-task-manager-backend/node_modules/
+team-task-manager-backend/storage/logs/
+team-task-manager-backend/storage/framework/cache/
+team-task-manager-backend/storage/framework/sessions/
+team-task-manager-backend/storage/framework/views/
+
+# React / Vite
+team-task-manager-frontend/node_modules/
+team-task-manager-frontend/dist/
+team-task-manager-frontend/.env
+team-task-manager-frontend/.env.*
+!team-task-manager-frontend/.env.example
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
