@@ -801,27 +801,27 @@ Screenshots can be added here to demonstrate the main application interfaces.
 
 ## Login
 
-_Add screenshot here._
+![alt text](<Screenshot 2026-08-14 132736.png>)
 
 ## Admin Dashboard
 
-_Add screenshot here._
+![alt text](<Screenshot 2026-08-14 143947.png>)
 
 ## Projects
 
-_Add screenshot here._
+![alt text](<Screenshot 2026-08-14 144058.png>)
 
 ## Team Management
 
-_Add screenshot here._
+![alt text](<Screenshot 2026-08-14 144200.png>)
 
 ## Tasks
 
-_Add screenshot here._
+![alt text](<Screenshot 2026-08-14 144236.png>)
 
 ## Member Dashboard
 
-_Add screenshot here._
+![alt text](<Screenshot 2026-08-14 144323.png>)
 
 ---
 
